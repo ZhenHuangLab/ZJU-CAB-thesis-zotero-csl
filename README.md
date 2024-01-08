@@ -17,7 +17,7 @@
 * 确认各文献元数据中”语言“的设置。中文文献请将语言设置为`zh-CN`，英文文献设置为`en-US`。可以利用[茉莉花插件](https://github.com/l0o0/jasminum/releases)或者[delitemwithatt](https://github.com/redleafnew/delitemwithatt)。
 * 正常引用即可。
 
-引用范例：
+## 引用范例
 > （Gorpenchenko et al., 2023）</br>
   （Rasmussen et al., 2013；Zhu et al., 2021；Li et al., 2023）</br>
   （王梦琪，2022）</br>
