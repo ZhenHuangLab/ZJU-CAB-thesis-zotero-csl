@@ -1,4 +1,4 @@
-# 浙大农学院本科毕设
+# 浙大农学院本科毕设Zotero引用样式
 
 修改自[redleafnew](https://github.com/redleafnew)仓库[Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)中的[415zhejiang-university.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/415zhejiang-university.csl)。
 
