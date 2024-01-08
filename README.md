@@ -19,23 +19,25 @@
 * 正常引用即可。
 
 ## 引用范例
-> （Gorpenchenko et al., 2023）</br>
-  （Rasmussen et al., 2013；Zhu et al., 2021；Li et al., 2023）</br>
-  （王梦琪，2022）</br>
-  （王瑛华和王小菁，2011；郭春歌，2015；李格等，2018；王芳等，2019；张广慧，2022；王梦琪，2022）</br>
-  （李先文等，2010；Mittler et al., 2022）</br>
-  郭春歌. 黄瓜冷害和冻害的发生及防治[J]. 河南农业, 2015(16): 37–38. </br>
-  李格，孟小庆，蔡敬，等. 活性氧在植物非生物胁迫响应中功能的研究进展[J]. 植物生理学报, 2018, 54(6): 951–959. </br>
-  李先文，黄新华，刘京，等. 植物冻害发生的机制及预防措施[J]. 湖北农业科学, 2010, 49(10): 2579–2581. </br>
+> （王梦琪，2022）
+（王芳等，2019）</br>
+（王瑛华和王小菁，2011；赖铭等，2023）</br>
+（Vij and Tyagi, 2008）</br>
+（Rasmussen et al., 2013；Mehrotra et al., 2020；Zhu et al., 2021）</br>
+（Mehrotra et al., 2020；Gorpenchenko et al., 2023；权威等，2023）</br>
+
+  赖铭，陈佳，张军，等. 植物低温胁迫响应机制及提高抗冷性研究进展[J]. 分子植物育种, 2023: 1–11. </br>
+  权威，薛文通，赵天瑶，等. 植物对低温胁迫的响应机制研究进展[J]. 中国农业大学学报, 2023, 28(2): 14–22. </br>
   王芳，王淇，赵曦阳. 低温胁迫下植物的表型及生理响应机制研究进展[J]. 分子植物育种, 2019, 17(15): 5144–5153. </br>
   王梦琪. 番茄乙烯响应因子ERF15在低温抗性中的作用[D]. 浙江大学，2022. . </br>
   王瑛华，王小菁. 胁迫相关蛋白(SAP)与植物的抗逆性[J]. 华南师范大学学报(自然科学版), 2011(1): 9-12+18. </br>
-  张广慧. 温度对蔬菜生长发育的影响[J]. 河南农业, 2022(19): 27–28. </br>
-  Gorpenchenko T Y, Veremeichik G N, Shkryl Y N, et al. Suppression of the HOS1 Gene Affects the Level of ROS Depending on Light and Cold: 2[J]. Life, 2023, 13(2): 524. </br>
-  Mittler R, Zandalinas S I, Fichman Y, et al. Reactive oxygen species signalling in plant stress responses: 10[J]. Nature Reviews Molecular Cell Biology, 2022, 23(10): 663–679. </br>
-  Li X, Cai Q, Yu T, et al. ZmG6PDH1 in glucose-6-phosphate dehydrogenase family enhances cold stress tolerance in maize[J]. Frontiers in Plant Science, 2023, 14. </br>
-  Rasmussen S, Barah P, Suarez-Rodriguez M C, et al. Transcriptome Responses to Combinations of Stresses in Arabidopsis[J]. Plant Physiology, 2013, 161(4): 1783–1794. </br>
-  Zhu Y, Liu X, Gao Y, et al. Transcriptome-based identification of AP2/ERF family genes and their cold-regulated expression during the dormancy phase transition of Chinese cherry flower buds[J]. Scientia Horticulturae, 2021, 275: 109666. 
+  Castro B, Citterico M, Kimura S, et al. Stress-induced reactive oxygen species compartmentalization, perception and signalling: 4[J]. Nature Plants, 2021, 7(4): 403–412. </br>
+  Gorpenchenko TY, Veremeichik GN, Shkryl YN, et al. Suppression of the HOS1 Gene Affects the Level of ROS Depending on Light and Cold: 2[J]. Life, 2023, 13(2): 524. </br>
+  Mehrotra S, Verma S, Kumar S, et al. Transcriptional regulation and signalling of cold stress response in plants: An overview of current understanding[J]. Environmental and Experimental Botany, 2020, 180: 104243. </br>
+  Rasmussen S, Barah P, Suarez-Rodriguez MC, et al. Transcriptome Responses to Combinations of Stresses in Arabidopsis[J]. Plant Physiology, 2013, 161(4): 1783–1794. </br>
+  Shukla V, Choudhary P, Rana S, et al. Structural evolution and function of stress associated proteins in regulating biotic and abiotic stress responses in plants[J]. Journal of Plant Biochemistry and Biotechnology, 2021, 30(4): 779–792. </br>
+  Vij S, Tyagi AK. A20/AN1 zinc-finger domain-containing proteins in plants and animals represent common elements in stress response[J]. Functional & Integrative Genomics, 2008, 8(3): 301–307. </br>
+  Zhu Y, Liu X, Gao Y, et al. Transcriptome-based identification of AP2/ERF family genes and their cold-regulated expression during the dormancy phase transition of Chinese cherry flower buds[J]. Scientia Horticulturae, 2021, 275: 109666.
 
-<img width="614" alt="image" src="https://github.com/ZhenHuangLab/ZJU-CAB-thesis-zotero-csl/assets/72512698/783e9504-a91d-45a2-9a80-b1ee6ea642cc">
+<img width="567" alt="image" src="https://github.com/ZhenHuangLab/ZJU-CAB-thesis-zotero-csl/assets/72512698/9d773d2d-7e80-4e8a-ae0e-0ad6c58aeac1">
 
