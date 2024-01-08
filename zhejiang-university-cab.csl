@@ -24,7 +24,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-01-08T05:38:31+00:00</updated>
+    <updated>2024-01-08T10:41:44+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -41,7 +41,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name et-al-min="3" et-al-use-first="3" initialize-with=" " sort-separator=" "/>
+          <name et-al-min="3" et-al-use-first="3" initialize-with="" sort-separator=" "/>
         </names>
       </if>
       <else>
