@@ -18,6 +18,12 @@
 * 确认各文献元数据中”语言“的设置。中文文献请将语言设置为`zh-CN`，英文文献设置为`en-US`。可以利用[茉莉花插件](https://github.com/l0o0/jasminum/releases)或者[delitemwithatt](https://github.com/redleafnew/delitemwithatt)。
 * 正常引用即可。
 
+## 如果需要“仅保留首字母大写”
+
+如果要求参考文献中论文题目仅第一个首字母大写，例如“Plant low-temperature stress”而不是原标题的“Plant Low-Temperature Stress“，可选用`zhejiang-university-cab-stc.csl`文件。
+
+但是注意，这会使得参考文献中标题格式**不再忠于原论文标题**，可能需要手动修改标题中应保留的大写部分。
+
 ## 引用范例
 > （王梦琪，2022）
 （王芳等，2019）</br>
